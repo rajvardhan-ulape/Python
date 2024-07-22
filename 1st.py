@@ -1,4 +1,10 @@
 x = 10
 y = 20
-z= x+y
-print(z)
+
+# Arethmatic operators
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x**y)
+print(x//y)
