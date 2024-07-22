@@ -8,3 +8,19 @@ print(x*y)
 print(x/y)
 print(x**y)
 print(x//y)
+
+print("\nAssignment operators")
+
+x += y
+print(x)
+x -= y
+print(x)
+x *= y
+print(x)
+x /= y
+print(x)
+x %= y
+print(x)
+#x != y
+#print(x)
+
